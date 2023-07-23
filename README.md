@@ -1,6 +1,10 @@
 # vim_peizhi
 对vim进行个性化配置
 
+# vim的配置文件
+Vim的配置文件通常位于用户的主目录下，具体位置取决于操作系统和用户的配置。
+
+在大多数Linux和Unix系统上，Vim的配置文件名为.vimrc，位于用户的主目录下。
 
 # 1.下载 plug.vim 文件，根据操作系统不同，放置在以下autoload目录中：
 Linux: ~/.vim/autoload
